@@ -30,15 +30,21 @@ A full-stack web application to help students track their job applications with 
 
 ---
 
-## Setup Backend
 
+## 🔧 Setup Instructions
+
+### 📦 Backend Setup
+
+```bash
 cd server
 npm install
-# Add your MongoDB URI in a .env file as MONGO_URI
-node index.js
+```
+Add your MongoDB URI in a .env file as MONGO_URI
+```node index.js ```
 
-## Setup Frontend
+### Setup Frontend
+```
 cd ../client
 npm install
 npm run dev
-
+```
