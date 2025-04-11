@@ -25,8 +25,8 @@ A full-stack web application to help students track their job applications with 
 
 ## 🌐 Live Demo
 
-- Frontend: [View on Vercel](#)
-- Backend: [View on Render](#)
+- Frontend: [View on Vercel](https://student-job-tracker-eight.vercel.app/)
+- Backend: [Deployed on Render]
 
 ---
 
